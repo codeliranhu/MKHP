@@ -41,21 +41,21 @@ private:
 	//
 public:
 
-	MKHP_Hyper_Graph 	 *get_coarser_hyper_graph();
+	MKHP_Hyper_Graph     *get_coarser_hyper_graph();
 	MKHP_Hyper_Graph     *get_finer_hyper_graph();
 
-	int 				 get_num_vertex() {
-						 return _num_hyper_vertex;
+	int 		     get_num_vertex() {
+	      		     return _num_hyper_vertex;
 	}
-	int 				 set_num_vertex(int num) {
-						 _num_hyper_vertex = num;
+	int 			 set_num_vertex(int num) {
+					 _num_hyper_vertex = num;
 	}
 
-	int 				 get_num_edge() {
-						 return _num_hyper_edge;
+	int 			 get_num_edge() {
+					 return _num_hyper_edge;
 	}
-	int 				 set_num_edge(int num) {
-						 _num_hyper_edge = num;
+	int 			 set_num_edge(int num) {
+					 _num_hyper_edge = num;
 	}
 
 	std::vector<int> &get_incident_edge_array() {
