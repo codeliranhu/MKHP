@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jason/Desktop/MKHP/src/hgraph.cpp
+hgraph.h
+/home/jason/Desktop/MKHP/src/hgraph.h
+fstream
+-
+
+/home/jason/Desktop/MKHP/src/hgraph.h
+mkhp_io.h
+/home/jason/Desktop/MKHP/src/mkhp_io.h
+vector
+-
+
+/home/jason/Desktop/MKHP/src/mkhp_header.h
+
+/home/jason/Desktop/MKHP/src/mkhp_io.cpp
+mkhp_io.h
+/home/jason/Desktop/MKHP/src/mkhp_io.h
+
+/home/jason/Desktop/MKHP/src/mkhp_io.h
+iostream
+-
+string
+-
+stdio.h
+-
+cstdlib
+-
+getopt.h
+-
+stdlib.h
+-
+mkhp_header.h
+/home/jason/Desktop/MKHP/src/mkhp_header.h
+

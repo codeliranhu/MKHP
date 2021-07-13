@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc.a  CMakeFiles/src.dir/hgraph.cpp.o CMakeFiles/src.dir/mkhp_io.cpp.o
+/usr/bin/ranlib libsrc.a

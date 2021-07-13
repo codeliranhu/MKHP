@@ -1,0 +1,6 @@
+/home/jason/Desktop/MKHP/CMakeFiles/rebuild_cache.dir
+/home/jason/Desktop/MKHP/CMakeFiles/edit_cache.dir
+/home/jason/Desktop/MKHP/CMakeFiles/MKHP.dir
+/home/jason/Desktop/MKHP/src/CMakeFiles/rebuild_cache.dir
+/home/jason/Desktop/MKHP/src/CMakeFiles/edit_cache.dir
+/home/jason/Desktop/MKHP/src/CMakeFiles/src.dir
