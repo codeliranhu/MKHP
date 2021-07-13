@@ -26,9 +26,9 @@ public:
 	typedef std::vector<int> hyperedge_vector;
 
 private:	
-	HYPER_GRAPH_FORMAT	 _format;
-	int					 _num_hyper_vertex;
-	int 				 _num_hyper_edge;		
+	HYPER_GRAPH_FORMAT   _format;
+	int		     _num_hyper_vertex;
+	int 		     _num_hyper_edge;		
 	std::vector<int>     _incident_edge_array;
 	std::vector<int>     _incident_edge_ptr;
 	std::vector<int>     _vertex_weight;
